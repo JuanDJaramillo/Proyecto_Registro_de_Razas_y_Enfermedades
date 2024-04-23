@@ -1,0 +1,4 @@
+Nombre Científico: Influenza
+Nombre Común: Gripe
+Nombre Científico: VIH
+Nombre Común: SIDA
